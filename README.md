@@ -1,12 +1,11 @@
 ## Hi there 👋
 
 <!-
-**harshilzala005/harshilzala005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**harshilzala005/harshilzala005** 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+- 🔭 I’m currently working on AI/ML
+- 🌱 I’m currently learning python libraries 
 i am a currently student computer engineering <br>i am a full stack devlopar and python <br>🤝 I’m looking for help with coding<br>🌱 I’m currently learning diploma<br>💬 Ask me about my name is harshil zala i am from junagadh <br>my skiles is in language coding html css js nodejs compuer network mongodb database and python
 
 
